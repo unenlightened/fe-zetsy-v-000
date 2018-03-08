@@ -61,4 +61,7 @@ header {
 	border: #5px #ccc solid;
 }
 
+#press-links a:hover image {
+	border: #5px #ccc solid;
+}
 
