@@ -43,6 +43,14 @@ footer {
 	text-align: right;
 }
 
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 /*////// SECTIONS /////*/
 
 header {
