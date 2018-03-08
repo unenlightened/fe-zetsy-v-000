@@ -37,6 +37,10 @@ h2 {
 	color: rgb(111,127,122)
 }
 
+footer {
+	text-align: right;
+}
+
 #featured-image {
 	border: 5px rgb(152,173,166) solid;
 }
