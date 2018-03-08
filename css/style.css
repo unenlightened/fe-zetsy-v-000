@@ -57,10 +57,10 @@ header {
 	border: 5px rgb(152,173,166) solid;
 }
 
-#press-links image {
+#press-links a img {
 	border: 5px #ccc solid;
 }
 
-#press-links a:hover image {
+#press-links a:hover img {
 	border: 5px rgb(152,173,166) solid;
 }
