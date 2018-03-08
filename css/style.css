@@ -19,10 +19,20 @@ body {
 
 /* Write all remaining styles here */
 
-h1, h2 {
+h1 a {
 	color: rgb(152,173,166);
 }
 
-img {
+h1 {
 
 }
+
+h2 {
+	color: rgb(111,127,122)
+}
+
+img {
+5px rgb(152,173,166) solid
+}
+
+5px #ccc solid
