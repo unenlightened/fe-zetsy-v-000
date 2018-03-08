@@ -68,13 +68,13 @@ footer {
 
 /*////// SECTIONS /////*/
 
-body {
-	padding: 0;
-}
-
 header {
 	border-bottom: 1px rgb(152,173,166) solid;
 	margin-bottom: 5px;
+}
+
+press {
+	margin-bottom: 20px;
 }
 
 /*////// IMAGES /////*/
