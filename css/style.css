@@ -21,7 +21,7 @@ body {
 
 /*////// FONTS /////*/
 
-/*h1 a {
+h1 a {
 	color: rgb(152,173,166);
 	text-decoration: none;
 }
@@ -31,8 +31,8 @@ h1 a:hover {
 }
 
 h1 {
-  font: 5em 'Baskerville', serif;
-}*/
+  font: 5em/1em 'Baskerville', serif;
+}
 
 h2 {
 	font: bold 2em 'Baskerville', serif;
