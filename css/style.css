@@ -45,7 +45,9 @@ footer {
 
 /*////// SECTIONS /////*/
 
-
+header {
+	border-bottom: 1px rgb(152,173,166) solid;
+}
 
 /*////// IMAGES /////*/
 
