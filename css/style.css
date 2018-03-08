@@ -49,6 +49,7 @@ footer {
 }
 
 a {
+	transition: all 0.5s ease;
 	text-decoration: none;
 }
 
@@ -80,3 +81,4 @@ header {
 #press a:hover img {
 	border: 5px rgb(152,173,166) solid;
 }
+
